@@ -1,16 +1,36 @@
-# batmanflutter
+# UTS Pemrograman Mobile 2
 
-A new Flutter project.
+**Nama:** Mochammad Andwi Haikal  
+**NPM:** 23552011011  
+**Mata Kuliah:** Pemrograman Mobile 2  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Deskripsi Project
+Project ini dibuat untuk memenuhi tugas **UTS Pemrograman Mobile 2**.  
+Aplikasi dikembangkan menggunakan **Flutter**, dan mencakup penggunaan beberapa library/ package Flutter sesuai instruksi UTS.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Teknologi yang Digunakan
+- **Flutter**
+- **Dart**
+- **Flutter Packages (library publik)**
+- **Android Studio / VS Code**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+
+## 📚 Fitur Aplikasi
+- Menggunakan minimal **2–3 library Flutter**
+- Animasi/efek (contoh: Batman effect atau efek lainnya)
+- Tampilan UI sederhana dan responsif
+
+---
+
+## 👨‍💻 Dibuat oleh
+**Mochammad Andwi Haikal**  
+NPM **23552011011**
+
+---
+
